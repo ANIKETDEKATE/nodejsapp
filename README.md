@@ -8,7 +8,6 @@ docker build -t nodejs .
 docker tag nodejs aws_account_id.dkr.ecr.region.amazonaws.com/nodejs:latest
 docker push aws_account_id.dkr.ecr.region.amazonaws.com/nodejs:latest
 ```
-
 ### create a priority class
 
 ```
