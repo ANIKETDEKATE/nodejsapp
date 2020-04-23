@@ -32,3 +32,4 @@ spec:
            cpu: 250m
            memory: 128Mi
      priorityClassName: high-priority
+
